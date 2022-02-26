@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="layout1_textview_title">This activity demonstrates the use of Relative Layout with two internal Linear layouts</string>
+    <string name="layout1_textview_user_name">Your Name:</string>
+    <string name="layout1_button_pres_me">Press me!</string>
+    <string name="layout1_radio_button_option1">Option 1</string>
+    <string name="layout1_radio_button_option2">Option 2</string>
+    <string name="layout1_radio_button_option3">Option 3</string>
+    <string name="layout1_radio_button_alternative1">Alternative 1</string>
+    <string name="layout1_radio_button_alternative2">Alternative 2</string>
+
+    <string name="layout2_textview_title">This activity demonstrates the use of Grid Layout with embedded image view</string>
+
+    <string name="layout3_textview_title">This activity demonstrates the use of Frame Layout with multi element on top of each other</string>
+
+    <string name="layout4_textview_title">This activity demonstrates the use of Table Layout with spanning columns</string>
+    <string name="layout4_cell_item_cell1">Cell 1</string>
+    <string name="layout4_cell_item_cell2">Cell 2</string>
+    <string name="layout4_cell_item_cell3">Cell 3</string>
+    <string name="layout4_cell_item_cell4">Cell 4</string>
+    <string name="layout4_cell_item_cell5">Cell 5</string>
+    <string name="layout4_cell_item_cell6">Cell 6</string>
+    <string name="layout4_cell_item_cell7">Cell 7</string>
+    <string name="layout4_cell_item_cell8">Cell 8</string>
+    <string name="layout4_cell_item_cell9">Cell 9</string>
+
+</resources>
