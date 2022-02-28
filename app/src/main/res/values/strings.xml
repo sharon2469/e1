@@ -12,6 +12,8 @@
     <string name="layout2_textview_title">This activity demonstrates the use of Grid Layout with embedded image view</string>
 
     <string name="layout3_textview_title">This activity demonstrates the use of Frame Layout with multi element on top of each other</string>
+    <string name="layout3_textview_myClock">My Clock</string>
+
 
     <string name="layout4_textview_title">This activity demonstrates the use of Table Layout with spanning columns</string>
     <string name="layout4_cell_item_cell1">Cell 1</string>

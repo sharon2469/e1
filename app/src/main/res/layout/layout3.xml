@@ -5,9 +5,25 @@
     android:background="@color/design_default_color_secondary_variant"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <com.imankur.analogclockview.AnalogClock
+    <FrameLayout
         android:layout_width="match_parent"
-        android:layout_height="238dp" />
+        android:layout_height="236dp">
+
+        <com.imankur.analogclockview.AnalogClock
+            android:layout_width="match_parent"
+            android:layout_height="238dp" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textSize="20dp"
+            android:text="@string/layout3_textview_myClock"
+            android:textColor="@color/black"
+            android:layout_marginTop="55dp"
+            android:textStyle="bold" />
+    </FrameLayout>
 
     <FrameLayout
         android:layout_gravity="center"
