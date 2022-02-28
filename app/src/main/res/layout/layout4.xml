@@ -23,8 +23,8 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TableLayout
-        android:layout_width="303dp"
-        android:layout_height="149dp"
+        android:layout_width="300dp"
+        android:layout_height="135dp"
         android:layout_marginBottom="179dp"
         android:stretchColumns="4"
         app:layout_constraintBottom_toBottomOf="parent"
