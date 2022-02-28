@@ -41,6 +41,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:textColor="@color/black"
+            android:backgroundTint="#B5B2B2"
             android:text="@string/layout1_button_pres_me" />
 
     </LinearLayout>
